@@ -2,3 +2,4 @@ vendor/
 *.log
 *.exe
 .idea
+./file-util
